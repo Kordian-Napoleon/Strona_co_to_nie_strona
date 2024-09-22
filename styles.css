@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	font-size: 22px
+}
+		
+body {
+	background-color: #303030;
+	color: whitesmoke;
+}
